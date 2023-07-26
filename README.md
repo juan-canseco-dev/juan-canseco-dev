@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @juan-canseco-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### ¡Hola, Soy Juan Pablo Canseco! ✌️
+Tengo experiencia profesional en el desarrollo Android, actualmente me estoy formando como desarrollador backend con C# y Java.
 
-<!---
-juan-canseco-dev/juan-canseco-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Algunas de las tecnologías que manejo:
+- Android (Java, Kotlin)
+- Firebase
+- Spring Boot (Java)
+- ASP.NET Core (C#)
+- Angular
+
