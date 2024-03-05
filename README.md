@@ -1,5 +1,5 @@
 ### ¡Hola, Soy Juan Pablo Canseco! ✌️
-Soy TSU en Tecnologías de la Información con experiencia profesional en el desarrollo en Android, actualmente estoy cursando la Carrera de Ingeniería en Sistemas Computacionales en modalidad en línea, de la cual he completado aproximadamente el 84% del plan de estudios. En este momento, me estoy especializando en el desarrollo web, enfocándome en Angular como frontend, y utilizando Spring Boot para el backend.
+Soy un Desarrollador JR con habilidades en Java, Android SDK. Me destaco en el diseño y desarrollo de aplicaciones móviles, incorporando conceptos como diseño material, Android Jetpack y RxJava. He mejorado aplicaciones existentes y trabajado en la creación de componentes con el API de Google Maps. Actualmente, estoy cursando Ingeniería en Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato la cual estoy por terminar y en etapa de conseguir estadías.
 
 ### Algunas de las tecnologías que manejo:
 - Android (Java)
