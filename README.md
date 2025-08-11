@@ -1,5 +1,5 @@
 ### ¡Hola, Soy Juan Pablo Canseco! ✌️
-Soy un Desarrollador JR con habilidades en Java, Android SDK. Me destaco en el diseño y desarrollo de aplicaciones móviles, incorporando conceptos como diseño material, Android Jetpack y RxJava. He mejorado aplicaciones existentes y trabajado en la creación de componentes con el API de Google Maps. Actualmente, estoy cursando Ingeniería en Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato la cual estoy por terminar y en etapa de conseguir estadías.
+Desarrollador con experiencia en Java y Android SDK, especializado en el diseño y desarrollo de aplicaciones móviles con Material Design, Android Jetpack y RxJava. Experiencia en integración de Google Maps API y optimización de aplicaciones existentes. Actualmente me desempeño como Service Desk Team Lead, con interés en crecer profesionalmente en el área de desarrollo de software y otras áreas de TI.
 
 ### Algunas de las tecnologías que manejo:
 - Android (Java)
