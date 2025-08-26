@@ -5,4 +5,5 @@ Desarrollador con experiencia en Java y Android SDK, especializado en aplicacion
 - Android (Java)
 - Firebase
 - Spring Boot (Java)
+- Aangular
 
