@@ -25,13 +25,13 @@ Desarrollador con experiencia en Java y Android SDK, especializado en aplicacion
 <img src="https://github.com/juan-canseco-dev/inventory-app-angular/blob/main/images/07.png" width="80%" />
 <img src="https://github.com/juan-canseco-dev/inventory-app-angular/blob/main/images/08.png" width="80%" />
 
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img1.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img2.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img3.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img4.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img5.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img6.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img7.png" width="80%" />
-<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/tree/main/assets/img8.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img1.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img2.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img3.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img4.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img5.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img6.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img7.png" width="80%" />
+<img src="https://github.com/juan-canseco-dev/sistema-horarios-cs/blob/main/assets/img8.png" width="80%" />
 
 </div>
