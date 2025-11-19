@@ -12,7 +12,7 @@ Desarrollador con experiencia en Java y Android SDK, especializado en aplicacion
 
 ## 📸 Mis Proyectos 
 
-> Vista rapida de mis proyectos 
+> Vista rapida de los proyectos que he realizado recientemente.
 
 <div align="center">
 
