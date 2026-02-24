@@ -3,7 +3,6 @@ Desarrollador con experiencia en Java y Android SDK, especializado en aplicacion
 
 ### Algunas de las tecnologías que manejo:
 - Android (Java)
-- Firebase
 - Spring Boot (Java)
 - Angular
 - Visual Studio C#
