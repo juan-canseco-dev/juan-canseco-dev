@@ -41,10 +41,10 @@ This inventory management API started as a Spring Boot project three years ago w
 The frontend counterpart to the inventory system, built with Angular. I kicked it off in 2023 using the CoreUI admin template, and just recently refactored it to a feature-based structure with NgRx for state management and Angular signals for reactivity. It's got lazy loading, reactive forms, and a responsive design—I'm getting the hang of modern Angular patterns!
 
 <div align="center">
-<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img01.png" width="45%" />
-<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img02.png" width="45%" />
-<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img03.png" width="45%" />
-<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img04.png" width="45%" />
+<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img05.png" width="45%" />
+<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img06.png" width="45%" />
+<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img07.png" width="45%" />
+<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img08.png" width="45%" />
 </div>
 
 ### Sistema de Horarios
