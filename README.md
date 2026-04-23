@@ -6,7 +6,7 @@ Technology professional with experience in mobile development using Java and the
 - Docker
 
 
-## 📸 Mis Proyectos 
+## 📸 My Projects 
 
 > Vista rapida de los proyectos que he realizado recientemente.
 
