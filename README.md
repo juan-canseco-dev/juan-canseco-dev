@@ -1,10 +1,5 @@
-### ¡Hola, Soy Juan Pablo Canseco! ✌️
-Desarrollador con experiencia en Java y Android SDK, especializado en el desarrollo de aplicaciones móviles utilizando Material Design, Android Jetpack y RxJava. Cuento con experiencia en la integración de Google Maps API y en la optimización del rendimiento de aplicaciones. Tras una pausa en mi carrera por motivos personales, actualmente me desempeño como Service Desk Team Leader, manteniendo el firme objetivo de retomar mi camino en el desarrollo de software y continuar creciendo profesionalmente en el área tecnológica.
-
-### Algunas de las tecnologías que manejo:
-- Android (Java)
-- Spring Boot (Java)
-- Angular 
+### ¡Hi, I'm Juan Pablo Canseco! ✌️
+Technology professional with experience in mobile development using Java and the Android SDK. I have worked with tools and approaches such as Material Design, Android Jetpack, RxJava, Google Maps API integration, and application optimization. After taking a break from my path as a developer for personal reasons, I continued growing in the technology field through a leadership role as a Service Desk Team Leader. I am currently focused on returning to software development, strengthening my skills, and continuing to advance in my technical career. 
 - C# .Net Core
 - Blazor
 - SQL Server
