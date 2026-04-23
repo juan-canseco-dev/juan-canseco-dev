@@ -7,7 +7,8 @@ Desarrollador con experiencia en Java y Android SDK, especializado en el desarro
 - Angular 
 - C# .Net Core
 - Blazor
-- SQL Server 
+- SQL Server
+- Docker
 
 
 ## 📸 Mis Proyectos 
