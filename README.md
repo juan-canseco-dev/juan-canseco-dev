@@ -38,7 +38,7 @@ GameHub is a real-time multi-channel chat application I built with ASP.NET Core 
 This inventory management API started as a Spring Boot project three years ago with a simple layered architecture. Recently, I took the time to refactor it to a vertical slice approach, which made everything so much more organized and maintainable. It includes JWT auth, role-based permissions, and handles all the CRUD for catalog, inventory, sales, and user access—feels great to see it evolve!
 
 ### Inventory Management - Frontend (Angular)
-The frontend counterpart to the inventory system, built with Angular. I kicked it off in 2023 using the CoreUI admin template, and just recently refactored it to a feature-based structure with NgRx for state management and Angular signals for reactivity. It's got lazy loading, reactive forms, and a responsive design—I'm getting the hang of modern Angular patterns!
+The frontend counterpart to the inventory system, built with Angular. I kicked it off a while ago using the CoreUI admin template, and just recently refactored it to a feature-based structure with NgRx for state management and Angular signals for reactivity. It's got lazy loading, reactive forms, and a responsive design—I'm getting the hang of modern Angular patterns!
 
 <div align="center">
 <img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img05.png" width="45%" />
