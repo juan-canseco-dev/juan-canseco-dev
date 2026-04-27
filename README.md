@@ -43,8 +43,8 @@ The frontend counterpart to the inventory system, built with Angular. I kicked i
 <div align="center">
 <img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img05.png" width="45%" />
 <img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img06.png" width="45%" />
-<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img07.png" width="45%" />
 <img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img08.png" width="45%" />
+<img src="https://github.com/juan-canseco-dev/inventory-angular/blob/main/assets/img/img09.png" width="45%" />
 </div>
 
 ### Sistema de Horarios
